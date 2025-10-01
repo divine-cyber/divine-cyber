@@ -4,7 +4,7 @@
 - I’m looking to collaborate on Healthcare analytics projects (e.g., predicting patient risk, optimizing workflows)
 - divinegtb@gmail.com
 - she/her
-- ⚡ Fun fact: I built a Java-based simulation of teen behavior in a shopping mall just for fun!
+
 
 <!---
 divine-cyber/divine-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
